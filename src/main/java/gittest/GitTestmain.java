@@ -10,5 +10,6 @@ package gittest;
 public class GitTestmain {
     public static void main(String[] args) {
         System.out.println("更新git");
+        System.out.println("更新git2");
     }
 }
